@@ -1,0 +1,29 @@
+[
+    {
+        "titulo": "Ajedrez",
+        "editorial": "Atlantida",
+        "anio": "1950",
+        "jugadoresMin": 2,
+        "jugadoresMax": 2,
+        "categorias":["Estrategia","Deporte Mental"],
+        "disponible": true
+    },
+    {
+        "titulo": "Truco",
+        "editorial": "Argentina",
+        "anio": "1900",
+        "jugadoresMin": 2,
+        "jugadoresMax": 6,
+        "categorias":["Ingenio","Cartas"],
+        "disponible": true
+    },
+    {
+        "titulo": "Sudoku",
+        "editorial": "Nikoli Japón",
+        "anio": "1850",
+        "jugadoresMin": 1,
+        "jugadoresMax": 1,  
+        "categorias":["Matemático","Lógica"],
+        "disponible": false
+    }
+]

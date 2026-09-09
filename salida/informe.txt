@@ -1,0 +1,27 @@
+Catálogo de Juegos de Mesa:
+    ================================
+    Cantidad de juegos: 3
+    1. Ajedrez,  
+    Editorial y Año: Atlantida - 1950
+    Jugadores Mínimos: 2
+    Jugadores Máximos: 2
+    Categorías: Estrategia,Deporte Mental
+    Disponible: Disponible
+    
+2. Truco,  
+    Editorial y Año: Argentina - 1900
+    Jugadores Mínimos: 2
+    Jugadores Máximos: 6
+    Categorías: Ingenio,Cartas
+    Disponible: Disponible
+    
+3. Sudoku,  
+    Editorial y Año: Nikoli Japón - 1850
+    Jugadores Mínimos: 1
+    Jugadores Máximos: 1
+    Categorías: Matemático,Lógica
+    Disponible: No Disponible
+    
+    ================================
+    
+    
