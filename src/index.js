@@ -5,7 +5,7 @@ const {crearInforme} = require("./juegos.js");
 
 const rutaDatos = path.join(__dirname, "..", "datos", "juegos.json");
 
-const rutaSalida = path.join(__dirname, "..", "salida", "informe.txt");
+const rutaSalida = path.join(__dirname, "..", "salida", "catalogo-juegos.txt");
 console.log("Salida: ",rutaSalida);
 
 async function main(){
