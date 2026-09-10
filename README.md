@@ -49,16 +49,16 @@ tp-02-modulos-asincronia-npm/
     =========================
     Cantidad de juegos: (número de juegos de mesa listado en el archivo)
 
-      *titulo: Nombre del juego de mesa
-      *editorial: Editorial responsable de la publicación del juego de mesa
-      *anio: Año de publicación
-      *jugadoresMin: Cantidad mínima de participantes
-      *jugadoresMax:Cantidad máxima de participantes
-      *categorias: Al menos dos categorías al que corresponde el juego de mesa
-      *disponible: (Si/No)
+      * titulo: Nombre del juego de mesa
+      * editorial: Editorial responsable de la publicación del juego de mesa
+      * anio: Año de publicación
+      * jugadoresMin: Cantidad mínima de participantes
+      * jugadoresMax:Cantidad máxima de participantes
+      * categorias: Al menos dos categorías al que corresponde el juego de mesa
+      * disponible: (Si/No)
     =========================
 
-    
+
    * Módulo index.js:
      Este módulo debe coordinar la aplicación.
      Se importan el módulo "node:path", la biblioteca "picocolors", los módulos "archivos.js" y "juegos.js" con sus respectivas funciones. También se crea una constante con la ruta donde esta el listado de los juegos de mesa en formato JSON , y otra constante con la ruta de salida donde se crea la carpeta, y el arcihvo con el informe conteniendo el listado de juegos de mesa, incluidos en el archivo JSON.
