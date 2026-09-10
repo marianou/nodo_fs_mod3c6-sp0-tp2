@@ -14,7 +14,7 @@ async function main(){
         const juegos = await LeerJson(rutaDatos);
         const informe = crearInforme(juegos);
         await EscribirTexto(rutaSalida,informe);
-        console.log(pc.green("Reporte generado exitosamente en: ", rutaSalida));
+        console.log(pc.green("Reporte generado exitosamente ", rutaSalida));
 
     }catch(error){
         console.error(pc.red("Error en la ejecución del programa", error));
