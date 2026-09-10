@@ -56,6 +56,7 @@ tp-02-modulos-asincronia-npm/
       * jugadoresMax:Cantidad máxima de participantes
       * categorias: Al menos dos categorías al que corresponde el juego de mesa
       * disponible: (Si/No)
+      
     =========================
 
 
