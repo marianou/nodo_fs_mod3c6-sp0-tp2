@@ -14,18 +14,18 @@ Al abrirse en la parte inferior de la ventana de Visual Studio la terminal, ahi 
 
 ## Estructura del proyecto
 tp-02-modulos-asincronia-npm/
-* --datos/
-*    |-- juegos.json
-* -- src/
+* datos/
+*     |-- juegos.json
+* src/
 *    |-- archivos.js
 *    |-- juegos.js
 *    |-- index.js
-* -- salida/
+* salida/
 *    |-- catalogo-juegos.txt
-* -- .gitignore
-* -- package.json
-* -- package-lock.json
-* -- README.md
+* .gitignore
+* package.json
+* package-lock.json
+* README.md
 
 ## Flujo asíncrono
 
