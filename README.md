@@ -15,7 +15,7 @@ Al abrirse en la parte inferior de la ventana de Visual Studio la terminal, ahi 
 ## Estructura del proyecto
 tp-02-modulos-asincronia-npm/
 * datos/
-*     |-- juegos.json
+      |-- juegos.json
 * src/
 *     |-- archivos.js
 *     |-- juegos.js
