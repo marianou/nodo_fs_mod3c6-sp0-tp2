@@ -56,7 +56,7 @@ tp-02-modulos-asincronia-npm/
       * jugadoresMax:Cantidad máxima de participantes
       * categorias: Al menos dos categorías al que corresponde el juego de mesa
       * disponible: (Si/No)
-      
+
     =========================
 
 
@@ -83,7 +83,7 @@ Await detiene la línea de tiempo de esa función específica sin bloquear el hi
 * Promesas rechazadas con await: Si usas async/await, cualquier promesa rechazada que esté precedida por la palabra await burbujeará como una excepción normal al bloque catch.
 * Errores devueltos por librerías que usan Promesas: Si una función asíncrona falla, y no se maneja su rechazo localmente, puede ser interceptado si se ejecuta con await dentro del try de tu main.
 
-6. Se publican "p"ackage.json" y "package-lock.json" porque son archivos livianos, mientras que "node_modules" no se publica porque contiene miles de archivos pesados, que se pueden reconstruir automáticamente.
+6. Se publican "package.json" y "package-lock.json" porque son archivos livianos, mientras que "node_modules" no se publica porque contiene miles de archivos pesados, que se pueden reconstruir automáticamente.
 
 7. Picocolors es una biblioteca rápida que permite dar formato y color con códigos ANSI de los textos impresos en la terminal.
 Figura en dependencies, porque se necesita que picocolors esté instalado obligatoriamente al usar el paquete, por lo que se declara como una dependencia de producción.
