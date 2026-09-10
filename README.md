@@ -49,13 +49,13 @@ tp-02-modulos-asincronia-npm/
     =========================
     Cantidad de juegos: (número de juegos de mesa listado en el archivo)
 
-    * titulo: Nombre del juego de mesa
-    * editorial: Editorial responsable de la publicación del juego de mesa
-    * anio: Año de publicación
-    * jugadoresMin: Cantidad mínima de participantes
-    * jugadoresMax:Cantidad máxima de participantes
-    * categorias: Al menos dos categorías al que corresponde el juego de mesa
-    * disponible: (Si/No)
+    -titulo: Nombre del juego de mesa
+    -editorial: Editorial responsable de la publicación del juego de mesa
+    -anio: Año de publicación
+    -jugadoresMin: Cantidad mínima de participantes
+    -jugadoresMax:Cantidad máxima de participantes
+    -categorias: Al menos dos categorías al que corresponde el juego de mesa
+    -disponible: (Si/No)
     
    * Módulo index.js:
      Este módulo debe coordinar la aplicación.
