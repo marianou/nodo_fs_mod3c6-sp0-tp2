@@ -1,6 +1,6 @@
 Catálogo de Juegos de Mesa:
     ================================
-    Cantidad de juegos: 3
+    Cantidad de juegos: 4
     1. Ajedrez,  
     Editorial y Año: Atlantida - 1950
     Jugadores Mínimos: 2
@@ -21,6 +21,13 @@ Catálogo de Juegos de Mesa:
     Jugadores Máximos: 1
     Categorías: Matemático,Lógica
     Disponible: No Disponible
+    
+4. Dominó,  
+    Editorial y Año: Ditoys - 1870
+    Jugadores Mínimos: 2
+    Jugadores Máximos: 4
+    Categorías: Fichas,Estrategia
+    Disponible: Disponible
     
     ================================
     

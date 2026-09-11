@@ -25,5 +25,14 @@
         "jugadoresMax": 1,  
         "categorias":["Matemático","Lógica"],
         "disponible": false
+    },
+    {
+        "titulo": "Dominó",
+        "editorial": "Ditoys",
+        "anio": "1870",
+        "jugadoresMin": 2,
+        "jugadoresMax": 4,  
+        "categorias":["Fichas","Estrategia"],
+        "disponible": true  
     }
 ]
