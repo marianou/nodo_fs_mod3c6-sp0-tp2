@@ -28,7 +28,12 @@ tp-02-modulos-asincronia-npm/
 * README.md
 
 ## Flujo asíncrono
-
+* Leer archivo JSON 
+* await LeerJson(rutaDatos) 
+* Obtener los juegos
+* crearInforme(juegos)
+* await EscribirTexto(rutaSalida, informe)
+* Mostrar mensaje de éxito
 
 ## Dependencias
 * picocolors: Versión 1.1.1
