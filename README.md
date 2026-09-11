@@ -29,10 +29,10 @@ tp-02-modulos-asincronia-npm/
 
 ## Flujo asíncrono
 * Leer archivo JSON 
-* await LeerJson(rutaDatos) 
-* Obtener los juegos
-* crearInforme(juegos)
-* await EscribirTexto(rutaSalida, informe)
+* Se llama a la función await LeerJson(rutaDatos) 
+* Se obtienen los juegos
+* Se ejecuta crearInforme(juegos)
+* Luego de que se obtiene el informe, se llama a la función await EscribirTexto(rutaSalida, informe)
 * Mostrar mensaje de éxito
 
 ## Dependencias
