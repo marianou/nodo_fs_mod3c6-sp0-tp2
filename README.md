@@ -28,12 +28,11 @@ tp-02-modulos-asincronia-npm/
 * README.md
 
 ## Flujo asíncrono
-* Leer archivo JSON 
-* Se llama a la función await LeerJson(rutaDatos) 
+* Se llama y se ejecuta la función asincrona "await LeerJson(rutaDatos)", la cual realiza la lectura del archivo "juegos.json", devolviendo el contenido del mismo convertido  en un objeto o valor de JavaScript con JSON.parse().
 * Se obtienen los juegos
-* Se ejecuta crearInforme(juegos)
-* Luego de que se obtiene el informe, se llama a la función await EscribirTexto(rutaSalida, informe)
-* Mostrar mensaje de éxito
+* Se ejecuta crearInforme(juegos) en forma síncrona
+* Luego de que se obtiene el informe, se llama y se ejecuta la función asincrona "await EscribirTexto(rutaSalida, informe)"donde crea la carpeta y el archivo de salida -> "salida/catalogo-juegos.txt".
+* Se muestra mensaje de éxito si todo salio correctamente.
 
 ## Dependencias
 * picocolors: Versión 1.1.1
